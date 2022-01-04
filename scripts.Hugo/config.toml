@@ -2,24 +2,18 @@
 
 # ##################################################
 # Hugo-defined variables
-#baseURL       = "hddps://example.com"
-#baseURL       = "/"
-#baseURL       = "/../icac2201/"
 baseURL       = "/icac2201/"
-#baseURL       = "/icac2201/icac2201/"
 
 timeout       = 30000
 
-#title         = "https://icac2201.github.io/icac2201"
-#title         = "https://icac2201.chinadsf.org"
-#title         = "https://icac2201.github.io"
 title         = "https://icac2201.icacnpo.com"
 theme         = [ "hugo-theme-w3css-basic","dyn-theme-shortcodes" ]
 languageCode  = "en-us"
 #languageCode  = "de-ch"
 
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "cn"
+#defaultContentLanguage = "cn"
+defaultContentLanguage = "zh-yue-Hant-HK"
 
 #disableFastRender=true
 
@@ -135,68 +129,68 @@ anchor = "smart"
   url    = "/index.html"
 #  pre    = "fas fa-home"
 
-#[[menu.main]]
-#  weight = 2
-#  name   = "Contact"
-#  url    = "/contact"
-#  pre    = "far fa-address-card"
+[[menu.main]]
+  weight = 2
+  name   = "Contact"
+  url    = "/contact"
+  pre    = "far fa-address-card"
 
-#[[menu.main]]
-#  weight = 3
-#  name   = "Pages"
-#  url    = "/pages"
-#  pre    = "fas fa-list"
+[[menu.main]]
+  weight = 3
+  name   = "Pages"
+  url    = "/pages"
+  pre    = "fas fa-list"
 
-## demo submenu
-#[[menu.main]]
-#  weight = 4
-#  name   = "Theme"
-#  pre    = "fas fa-info-circle"
-#  identifier = "theme"
-# 
-# [[menu.main]]
-#   weight = 1
-#   name   = "About"
-#   #url    = "/categories/this-theme/"
-#   url    = "/pages/hugo-theme-w3css-basic/"
-#   pre    = "fas fa-info fa-fw"
-#   parent = "theme"
-# 
-# [[menu.main]]
-#   weight = 2
-#   name   = "Images"
-#   url    = "/pages/hugo-theme-w3css-basic/images-taken-from/"
-#   pre    = "far fa-images fa-fw"
-#   parent = "theme"
-# 
-# [[menu.main]]
-#   weight = 3
-#   name   = "Showcase"
-#   url    = "/pages/showcase/"
-#   pre    = "fas fa-eye fa-fw"
-#   parent = "theme"
-# 
-# # end submenu
+# demo submenu
+[[menu.main]]
+  weight = 4
+  name   = "Theme"
+  pre    = "fas fa-info-circle"
+  identifier = "theme"
 
-# [[menu.main]]
-#   weight = 5
-#   #name   = "所有文章"
-#   name   = "所有"
-#   #url    = "/blog"
-#   url    = "/tags/"
-#   pre    = "fas fa-rss"
+[[menu.main]]
+  weight = 1
+  name   = "About"
+  #url    = "/categories/this-theme/"
+  url    = "/pages/hugo-theme-w3css-basic/"
+  pre    = "fas fa-info fa-fw"
+  parent = "theme"
 
-# [[menu.main]]
-#   weight = 6
-#   name   = "FAQ"
-#   url    = "/faq"
-#   pre    = "far fa-question-circle"
+[[menu.main]]
+  weight = 2
+  name   = "Images"
+  url    = "/pages/hugo-theme-w3css-basic/images-taken-from/"
+  pre    = "far fa-images fa-fw"
+  parent = "theme"
 
-#[[menu.main]]
-#  weight = 70
-#  name   = "分類列表1"
-#  url    = "/categories/"
-#   pre    = "fas fa-info"
+[[menu.main]]
+  weight = 3
+  name   = "Showcase"
+  url    = "/pages/showcase/"
+  pre    = "fas fa-eye fa-fw"
+  parent = "theme"
+
+# end submenu
+
+[[menu.main]]
+  weight = 5
+  #name   = "所有文章"
+  name   = "所有"
+  #url    = "/blog"
+  url    = "/tags/"
+  pre    = "fas fa-rss"
+
+[[menu.main]]
+  weight = 6
+  name   = "FAQ"
+  url    = "/faq"
+  pre    = "far fa-question-circle"
+
+[[menu.main]]
+  weight = 70
+  name   = "分類列表1"
+  url    = "/categories/"
+   pre    = "fas fa-info"
 
 [[menu.main]]
   weight = 80
@@ -205,7 +199,7 @@ anchor = "smart"
   name   = "索引"
   #url    = "/tags/"
   url    = "/hot/alltags/"
-#  pre    = "fas fa-info-circle"
+  pre    = "fas fa-info-circle"
 
 ### 20211014 ### [[menu.main]]
 ### 20211014 ###   weight = 81
@@ -253,43 +247,43 @@ anchor = "smart"
 
 
 # right aligned
-#[[menu.topbar]]
-#  weight   = 1
-#  name     = "GitHub"
-#  url      = "hddps://github.com/it-gro/hugo-theme-w3css-basic"
-#  pre      = "fab fa-github"
+[[menu.topbar]]
+  weight   = 1
+  name     = "GitHub"
+  url      = "hddps://github.com/it-gro/hugo-theme-w3css-basic"
+  pre      = "fab fa-github"
 
-#[[menu.topbar]]
-#  weight   = 2
-#  name     = "GitLab"
-#  url      = "hddps://gitlab.com/it-gro"
-#  pre      = "fab fa-gitlab"
+[[menu.topbar]]
+  weight   = 2
+  name     = "GitLab"
+  url      = "hddps://gitlab.com/it-gro"
+  pre      = "fab fa-gitlab"
 
-#[[menu.topbar]]
-#  weight   = 3
-#  name     = "Facebook"
-#  url      = "hddp://facebook.com"
-#  pre      = "fab fa-facebook"
+[[menu.topbar]]
+  weight   = 3
+  name     = "Facebook"
+  url      = "hddp://facebook.com"
+  pre      = "fab fa-facebook"
 
-#[[menu.topbar]]
-#  weight   = 4
-#  name     = "Twitter"
-#  url      = "hddp://twitter.com"
-#  pre      = "fab fa-twitter"
+[[menu.topbar]]
+  weight   = 4
+  name     = "Twitter"
+  url      = "hddp://twitter.com"
+  pre      = "fab fa-twitter"
 
-# [[menu.topbar]]
-#   weight   = 5
-#   name     = "Email"
-# #  url      = "#address"
-#   url      = "mailto:minzhujiuguozhenxian@gmail.com"
-# # url      = "mailto:info@example.com"
-#   pre      = "fas fa-envelope"
-# 
-# [[menu.topbar]]
-#   weight   = 6
-#   name     = "Search"
-#   url      = "/search"
-#   pre      = "fas fa-search"
+[[menu.topbar]]
+  weight   = 5
+  name     = "Email"
+#  url      = "#address"
+  url      = "mailto:minzhujiuguozhenxian@gmail.com"
+# url      = "mailto:info@example.com"
+  pre      = "fas fa-envelope"
+
+[[menu.topbar]]
+  weight   = 6
+  name     = "Search"
+  url      = "/search"
+  pre      = "fas fa-search"
 
 
 # ##################################################
@@ -311,21 +305,21 @@ anchor = "smart"
 
   # used in layouts/partials/footer.html
   # uses markdownify
-#  aboutUs   = '''
-#About_line_01
-#
-#  * About_line_02
-#  * About_line_03
-#
-#About_line_04
-#
-#              '''
-#
-#   address   = '''
-# The_assress_of_ChinaDSF01
-# The_assress_of_ChinaDSF02
-#               '''
-#   footerContactButton = "contact/index.md"
+  aboutUs   = '''
+About_line_01
+
+  * About_line_02
+  * About_line_03
+
+About_line_04
+
+              '''
+
+   address   = '''
+ The_assress_of_ChinaDSF01
+ The_assress_of_ChinaDSF02
+               '''
+   footerContactButton = "contact/index.md"
 
   # used in layouts/partials/footer.bottom.html
   bottomLeft  = "Copyright (c) 2019, The_China_DSF_copyright_01"
