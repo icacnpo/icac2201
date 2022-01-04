@@ -131,7 +131,7 @@ anchor = "smart"
 # provide translations in i18n/*.yaml
 [[menu.main]]
   weight = 1
-  name   = "主页"
+  name   = "主頁"
   url    = "/index.html"
 #  pre    = "fas fa-home"
 
@@ -194,14 +194,14 @@ anchor = "smart"
 
 #[[menu.main]]
 #  weight = 70
-#  name   = "分类列表1"
+#  name   = "分類列表1"
 #  url    = "/categories/"
 #   pre    = "fas fa-info"
 
 [[menu.main]]
   weight = 80
-  #name   = "分类列表"
-  #name   = "总索引"
+  #name   = "分類列表"
+  #name   = "總索引"
   name   = "索引"
   #url    = "/tags/"
   url    = "/hot/alltags/"
@@ -229,8 +229,8 @@ anchor = "smart"
 ### 20211014 ### #  pre    = "Hot"
 ### 20211014 ### [[menu.main]]
 ### 20211014 ###   weight = 86
-### 20211014 ###   #name   = "热点新闻"
-### 20211014 ###   name   = "热"
+### 20211014 ###   #name   = "熱點新聞"
+### 20211014 ###   name   = "熱"
 ### 20211014 ###   url    = "/hot/hotnews/"
 ### 20211014 ### #  pre    = "Hot"
 ### 20211014 ### [[menu.main]]
@@ -248,7 +248,7 @@ anchor = "smart"
 ### 20211014 ### [[menu.main]]
 ### 20211014 ###   weight = 89
 ### 20211014 ###   name   = "唐"
-### 20211014 ###   url    = "/hot/tangbaiqiao/"
+### 20211014 ###   url    = "/hot/kcso/"
 ### 20211014 ### #  pre    = "Hot"
 
 
@@ -822,10 +822,10 @@ anchor = "smart"
   enableFooter   = true
   # used in layouts/partials/front.recent_posts.html
   enableFront    = true
-  #title    = "民主救国阵线"
-  title    = " 2021年01月a "
+  #title    = "華粵學院"
+  title    = " 2022年01月 "
   subtitle = '''
-本网站在大陆可以直接浏览，无需VPN
+本網站在牆內可以直接瀏覽，無需VPN
 '''
 
 [params.seeMore]
@@ -838,8 +838,8 @@ anchor = "smart"
   linkUrl   = "/pages"
   linkText  = "consectetuer adipiscing"
   subtitle  = '''
-栏目  22222222222 1
-栏目  22222222222 2
+欄目  22222222222 1
+欄目  22222222222 2
               '''
 
 [params.testimonials]
@@ -850,8 +850,8 @@ anchor = "smart"
   enable  = false
   title    = "Testimonials"
   subtitle = '''
-栏目  33333333333 1
-栏目  33333333333 2
+欄目  33333333333 1
+欄目  33333333333 2
              '''
 
 [params.clients]
@@ -866,8 +866,8 @@ anchor = "smart"
   imgMaxHeight  = "100px"
   title         = "Our Clients"
   subtitle      = '''
-栏目  44444444444 1
-栏目  44444444444 2
+欄目  44444444444 1
+欄目  44444444444 2
              '''
 
 [params.blog]
@@ -875,8 +875,8 @@ anchor = "smart"
   title    = "Blog"
   icon     = "fas fa-rss"
   subtitle = '''
-栏目  55555555555 1
-栏目  55555555555 2
+欄目  55555555555 1
+欄目  55555555555 2
              '''
 
 [params.googleApiFonts.family]
