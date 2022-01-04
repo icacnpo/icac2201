@@ -262,20 +262,20 @@ anchor = "smart"
 [[menu.topbar]]
   weight   = 3
   name     = "Facebook"
-  url      = "hddp://facebook.com"
+  url      = "https://www.facebook.com/groups/498571051409840/"
   pre      = "fab fa-facebook"
 
 [[menu.topbar]]
   weight   = 4
   name     = "Twitter"
-  url      = "hddp://twitter.com"
+  url      = "https://www.facebook.com/groups/498571051409840/"
   pre      = "fab fa-twitter"
 
 [[menu.topbar]]
   weight   = 5
   name     = "Email"
 #  url      = "#address"
-  url      = "mailto:minzhujiuguozhenxian@gmail.com"
+  url      = "mailto:icac.npo@gmail.com"
 # url      = "mailto:info@example.com"
   pre      = "fas fa-envelope"
 
@@ -316,14 +316,14 @@ About_line_04
               '''
 
    address   = '''
- The_assress_of_ChinaDSF01
- The_assress_of_ChinaDSF02
+ The_assress_of_IcacNPO01
+ The_assress_of_IcacNPO02
                '''
    footerContactButton = "contact/index.md"
 
   # used in layouts/partials/footer.bottom.html
-  bottomLeft  = "Copyright (c) 2019, The_China_DSF_copyright_01"
-  bottomRight = 'created with [ChinaDSF](hddps://www.chinadsf.org) '
+  bottomLeft  = "Copyright (c) 2019, The_IcacNPO_copyright_01"
+  bottomRight = 'created with [IcacNPO](https://www.icacnpo.com) '
 
 
   # colors
@@ -625,9 +625,9 @@ About_line_04
   # used in partials/contact.form.html
   # Enable the contact form by entering your Formspree.io email
   #formspree            = "formspree.io"
-  formspree            = "chinadsf.org"
+  formspree            = "icacnpo.com"
   #email                = "info@example.com"
-  email                = "minzhujiuguozhenxian@gmail.com"
+  email                = "icac.npo@gmail.com"
   contactFormInclEmail = true
 
   # date format (blog) is created using:
