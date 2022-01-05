@@ -306,6 +306,10 @@ anchor = "smart"
   # used in layouts/partials/footer.html
   # uses markdownify
   aboutUs   = '''
+About Us
+關於我們
+'''
+  aboutUsX  = '''
 About_line_01
 
   * About_line_02
@@ -314,8 +318,13 @@ About_line_01
 About_line_04
 
               '''
+   footerAboutButton = "aboutUs/index.md"
 
    address   = '''
+Contact Us
+聯繫我們
+'''
+   addressX  = '''
  The_assress_of_IcacNPO01
  The_assress_of_IcacNPO02
                '''
