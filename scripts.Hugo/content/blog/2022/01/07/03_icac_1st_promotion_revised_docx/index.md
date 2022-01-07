@@ -48,8 +48,8 @@ You are welcome to click here (https://icacnpo.com) to learn more about the miss
 
 Wish each one of us a super thriving 2022. Let nothing stop us from fighting a tough war vigorously and brilliantly. No regrets in this vulnerable but challenging life. May God bless you all. May God bless Hong Kong. May God bless ICAC.
 
-{{< mypdf1 pdf="icac_1st_promotion_revised.pdf"
+{{< mypdf1 pdf="icac_1st_promotion_revised_docx.pdf"
 text="PDF format, PDF 文件"
-link="icac_1st_promotion_revised.pdf"
+link="icac_1st_promotion_revised_docx.pdf"
 >}}
 

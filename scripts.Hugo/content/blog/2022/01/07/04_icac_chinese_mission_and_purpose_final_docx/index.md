@@ -47,8 +47,8 @@ If so, we need to add the same in the rest of the document?
 [d]delete?
 [e]華粵?
 
-{{< mypdf1 pdf="icac_chinese_mission_and_purpose_final.pdf"
+{{< mypdf1 pdf="icac_chinese_mission_and_purpose_final_docx.pdf"
 text="PDF format, PDF 文件"
-link="icac_chinese_mission_and_purpose_final.pdf"
+link="icac_chinese_mission_and_purpose_final_docx.pdf"
 >}}
 

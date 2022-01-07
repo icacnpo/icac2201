@@ -56,8 +56,8 @@ Wish each one of us a super thriving 2022. Let nothing stop us from fighting a t
  
 [a]Need to define what NPO is?
 
-{{< mypdf1 pdf="icac_1st_eng_promotion_final.pdf"
+{{< mypdf1 pdf="icac_1st_eng_promotion_final_docx.pdf"
 text="PDF format, PDF 文件"
-link="icac_1st_eng_promotion_final.pdf"
+link="icac_1st_eng_promotion_final_docx.pdf"
 >}}
 

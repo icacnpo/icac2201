@@ -46,8 +46,8 @@ The corporation’s purposes:
 [f]Swap the order?
 [g]Why capitalized?
 
-{{< mypdf1 pdf="icac_eng_mission_and_purpose_final.pdf"
+{{< mypdf1 pdf="icac_eng_mission_and_purpose_final_docx.pdf"
 text="PDF format, PDF 文件"
-link="icac_eng_mission_and_purpose_final.pdf"
+link="icac_eng_mission_and_purpose_final_docx.pdf"
 >}}
 

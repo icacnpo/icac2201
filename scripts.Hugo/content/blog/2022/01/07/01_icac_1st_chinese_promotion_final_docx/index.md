@@ -41,8 +41,8 @@ draft: false
 [c]fb group not mentioned？
 [d]This refers to the Institute.
 
-{{< mypdf1 pdf="icac_1st_chinese_promotion_final.pdf"
+{{< mypdf1 pdf="icac_1st_chinese_promotion_final_docx.pdf"
 text="PDF format, PDF 文件"
-link="icac_1st_chinese_promotion_final.pdf"
+link="icac_1st_chinese_promotion_final_docx.pdf"
 >}}
 
