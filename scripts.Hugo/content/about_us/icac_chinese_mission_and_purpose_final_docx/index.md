@@ -1,4 +1,4 @@
-﻿---
+---
 title:              "icac_chinese_mission_and_purpose_final"
 type:               "about"
 #resImgTeaser:  teaserpics/pixabay.com/contact-2860030_640.jpg

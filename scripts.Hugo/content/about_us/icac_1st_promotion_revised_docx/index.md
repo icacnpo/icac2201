@@ -1,4 +1,4 @@
-﻿---
+---
 title:              "icac_1st_promotion_revised"
 type:               "about"
 #resImgTeaser:  teaserpics/pixabay.com/contact-2860030_640.jpg

@@ -1,6 +1,6 @@
-﻿---
+---
 title:              "icac_1st_chinese_promotion_final"
-type:               "about"
+type:               "npotype01"
 #resImgTeaser:  teaserpics/pixabay.com/contact-2860030_640.jpg
 #icon:               "far fa-address-card"
 ---
