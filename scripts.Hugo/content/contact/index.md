@@ -7,18 +7,13 @@ icon:               "far fa-address-card"
 
 # We are here to help you
 
-Pellentesque dapibus suscipit ligula. Donec posuere augue in quam.
-Etiam vel tortor sodales tellus ultricies commodo. Suspendisse
-potenti. Aenean in sem ac leo mollis blandit. Donec neque quam,
-dignissim in, mollis nec, sagittis eu, wisi. Phasellus lacus. Etiam
-laoreet quam sed arcu. Phasellus at dui in ligula mollis ultricies.
-Integer placerat tristique nisl. Praesent augue. 
+{{ mydiv4o text="華粵面書公開羣組 ICAC Public Group on Facebook"
+link="https://www.facebook.com/groups/498571051409840/permalink/620878555845755/"
+}}
 
-Fusce commodo. Vestibulum convallis, lorem a tempus semper, dui dui
-euismod elit, vitae placerat urna tortor vitae lacus. Nullam libero
-mauris, consequat quis, varius et, dictum id, arcu. Mauris mollis
-tincidunt felis. Aliquam feugiat tellus ut neque. Nulla facilisis,
-risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc
-justo sit amet elit.
+{{ mydiv5o text="華粵學院 Institute Of Chinese And Cantonese NPO (ICAC)"
+link="https://www.facebook.com/groups/498571051409840"
+}}
 
-Please feel free to contact us:
+Any entries and/or questions, please email icac.npo@gmail.com
+如有任何提交和/或提問，請電郵： icac.npo@gmail.com
