@@ -339,7 +339,7 @@ Contact Us
    donate = '''
 donate to us
 '''
-   footerDonateButton = "/donate01/"
+   footerDonateButton = "/donate01/index.md"
 
   # used in layouts/partials/footer.bottom.html
   bottomLeft  = "Copyright (c) 2019, The_IcacNPO_copyright_01"
