@@ -12,17 +12,17 @@ type:               "about"
 
 
 {{< mydiv4o text="2021絕對是最壞的一年，也是最好的一年！"
-link="/blog/2022/01/07/01_icac_1st_chinese_promotion_final_docx/"
+link="/blog/2022/01/07/01_icac_1st_chinese_promotion_final_docx/icac_1st_chinese_promotion_final_docx.pdf"
 >}}
 
 {{< mydiv4o text="2021 is absolutely the worst year and it is also the best!"
-link="/blog/2022/01/07/02_icac_1st_eng_promotion_final_docx/"
+link="/blog/2022/01/07/02_icac_1st_eng_promotion_final_docx/icac_1st_eng_promotion_final_docx.pdf"
 >}}
 
 {{< mydiv4o text="華粵學院（美國註册非營利組織）"
-link="/blog/2022/01/07/04_icac_chinese_mission_and_purpose_final_docx/"
+link="/blog/2022/01/07/04_icac_chinese_mission_and_purpose_final_docx/icac_chinese_mission_and_purpose_final_docx.pdf"
 >}}
 
 {{< mydiv4o text="Institute of Chinese and Cantonese NPO[a] (abbrev:ICAC)"
-link="/blog/2022/01/07/05_icac_eng_mission_and_purpose_final_docx/"
+link="/blog/2022/01/07/05_icac_eng_mission_and_purpose_final_docx/icac_eng_mission_and_purpose_final_docx.pdf"
 >}}
