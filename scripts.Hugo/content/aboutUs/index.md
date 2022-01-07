@@ -1,8 +1,8 @@
 ---
 title:              "About"
 type:               "about"
-resImgTeaser:  teaserpics/pixabay.com/contact-2860030_640.jpg
-icon:               "far fa-address-card"
+#resImgTeaser:  teaserpics/pixabay.com/contact-2860030_640.jpg
+#icon:               "far fa-address-card"
 ---
 
 # We are here to help you
