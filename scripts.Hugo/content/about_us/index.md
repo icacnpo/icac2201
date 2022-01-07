@@ -20,7 +20,7 @@ link="/blog/2022/01/07/02_icac_1st_eng_promotion_final_docx/icac_1st_eng_promoti
 >}}
 
 {{< mydiv4o text="華粵學院（美國註册非營利組織）"
-link="/blog/2022/01/07/04_icac_chinese_mission_and_purpose_final_docx/icac_chinese_mission_and_purpose_final_docx.pdf"
+link="/blog/2022/01/07/04_icac_chinese_mission_and_purpose_final_docx/icac_chinese_mission_and_purpose_final_docx.pdfx"
 >}}
 
 {{< mydiv4o text="Institute of Chinese and Cantonese NPO[a] (abbrev:ICAC)"
