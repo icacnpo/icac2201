@@ -336,6 +336,11 @@ Contact Us
                '''
    footerContactButton = "contact/index.md"
 
+   donate = '''
+donate to us
+'''
+   footerDonateButton = "/donate01/"
+
   # used in layouts/partials/footer.bottom.html
   bottomLeft  = "Copyright (c) 2019, The_IcacNPO_copyright_01"
   bottomRight = 'created with [IcacNPO](https://www.icacnpo.com) '
