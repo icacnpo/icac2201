@@ -318,7 +318,7 @@ About_line_01
 About_line_04
 
               '''
-   footerAboutButton = "aboutUs/index.md"
+   footerAboutButton = "about_us/index.md"
 
    address   = '''
 Contact Us
