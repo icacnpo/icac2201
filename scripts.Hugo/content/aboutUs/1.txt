@@ -1,5 +1,0 @@
-mv  icac_1st_chinese_promotion_final_docx.txt            icac_1st_chinese_promotion_final_docx.md       
-mv  icac_1st_eng_promotion_final_docx.txt                icac_1st_eng_promotion_final_docx.md
-mv  icac_1st_promotion_revised_docx.txt                  icac_1st_promotion_revised_docx.md
-mv  icac_chinese_mission_and_purpose_final_docx.txt      icac_chinese_mission_and_purpose_final_docx.md       
-mv  icac_eng_mission_and_purpose_final_docx.txt          icac_eng_mission_and_purpose_final_docx.md       
