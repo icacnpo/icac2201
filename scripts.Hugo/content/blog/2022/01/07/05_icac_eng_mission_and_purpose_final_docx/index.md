@@ -12,7 +12,7 @@ tags:
  - 2022_0107
 categories:
  - 2022_0107
-draft: false
+draft: true
 #icon:        "fas fa-lock-open"
 #resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
 ---
