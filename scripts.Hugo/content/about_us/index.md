@@ -7,7 +7,7 @@ type:               "about"
 
 
 
-{{< mydiv4o text="directors & members"
-link="/blog/2022/01/07/01_icac_1st_chinese_promotion_final_docx/"
+{{< mydiv4o text="CEO , Director & Committee"
+link="/about_us_01_ceo_director_and_committee/"
 >}}
 
