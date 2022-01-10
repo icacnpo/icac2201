@@ -849,6 +849,7 @@ donate to us
   subtitle = '''
 本網站在牆內可以直接瀏覽，無需VPN
 '''
+  alltagslink    = "/hot/alltags/"
 
 [params.seeMore]
   # used in layouts/partials/front.see_more.html
