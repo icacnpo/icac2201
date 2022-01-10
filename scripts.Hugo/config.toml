@@ -174,7 +174,7 @@ anchor = "smart"
 
 #[[menu.main]]
 [[menu.topbar]]
-  weight = 5
+  weight = 50
   #name   = "所有文章"
   #name   = "所有"
   name   = "a"
