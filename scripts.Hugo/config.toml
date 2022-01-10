@@ -172,10 +172,12 @@ anchor = "smart"
 #
 ## end submenu
 
-[[menu.main]]
+#[[menu.main]]
+[[menu.topbar]]
   weight = 5
   #name   = "所有文章"
-  name   = "所有"
+  #name   = "所有"
+  name   = "a"
   #url    = "/blog"
   url    = "/tags/"
   pre    = "fas fa-rss"
@@ -186,17 +188,21 @@ anchor = "smart"
 #  url    = "/faq"
 #  pre    = "far fa-question-circle"
 
-[[menu.main]]
+#[[menu.main]]
+[[menu.topbar]]
   weight = 70
-  name   = "分類列表1"
+  #name   = "分類列表1"
+  name   = "b"
   url    = "/categories/"
    pre    = "fas fa-info"
 
-[[menu.main]]
+#[[menu.main]]
+[[menu.topbar]]
   weight = 80
   #name   = "分類列表"
   #name   = "總索引"
-  name   = "索引"
+  #name   = "索引"
+  name   = "c"
   #url    = "/tags/"
   url    = "/hot/alltags/"
   pre    = "fas fa-info-circle"
