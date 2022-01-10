@@ -1,5 +1,5 @@
 ---
-title : " Institute of Chinese and Cantonese NPO (ICAC) is established !"
+title : " Institute of Chinese and Cantonese NPO (ICAC) has been established !"
 title2:              "icac_1st_eng_promotion_final"
 info2 : " Our willpower has never been snatched by the act of genocide."
 date:        2022-01-07T10:02:51-05:00
@@ -18,7 +18,7 @@ draft: false
 ---
 
 
-Institute of Chinese and Cantonese NPO (ICAC) is established
+### Institute of Chinese and Cantonese NPO (ICAC) has been established !
 
 
 2021 is absolutely the worst year and it is also the best!
