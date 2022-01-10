@@ -15,9 +15,9 @@ type:               "donate"
 
 # How to donate to Institute of Chinese and Cantonese NPO ( Pay by check in mail )
 
-Pay to: Institute Of Chinese And Cantonese NPO
-
 Mail to: PNC bank, 2992 S Main St, Ann Arbor, MI 48103
+
+Pay to: Institute Of Chinese And Cantonese NPO
 
 ( For e-payment，please send email to icac.npo@gmail.com for bank account )
 
