@@ -12,7 +12,7 @@ type:               "about"
 
 # Like / Forward / Share our posts in our facebook group / fans page / website
 
-# Directors / Committee members / Voluntees
+# Directors / Committee members / Volunteers
 
 # Connect with us
 
