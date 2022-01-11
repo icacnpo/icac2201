@@ -27,7 +27,7 @@ defaultContentLanguage = "zh-yue-Hant-HK"
 enableEmoji   = false
 
 # the length of text to show in a .Summary
-summaryLength = 70
+summaryLength = 80
 
 # Pagination (3,6,9,12, ...)
 paginate =  6
