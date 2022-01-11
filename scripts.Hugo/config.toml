@@ -353,6 +353,17 @@ donate to us
   bottomLeft  = "Copyright (c) 2019, The_IcacNPO_copyright_01"
   bottomRight = 'created with [IcacNPO](https://www.icacnpo.com) '
 
+blogAndNews = "Blog & News 雜誌及新聞"
+footerBlogAndNewsButton = "/hot/blogandnews/"
+
+teachAndLean = "Teach & Lean 教與學"
+footerTeachAndLeanButton = "/hot/teachandlean/"
+
+friendAndLinks = "Friend & Links 友好連結"
+footerFriendAndLinksButton = "/hot/friendandlinks/"
+
+eventsAndPhotos = "Events & Photos 活動與相片"
+footerEventsAndPhotosButton = "/hot/eventsandphotos/"
 
   # colors
   # ##############################
