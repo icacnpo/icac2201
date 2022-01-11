@@ -24,7 +24,7 @@ _
 
 _
 
-### ** Letter from CEO    2022.01        Kwai Chu So **
+### **Letter from CEO    2022.01        Kwai Chu So**
 
 The birth of  a nonprofit organization-Institute of Traditional Chinese And Cantonese (ICAC)
 
