@@ -116,6 +116,7 @@ anchor = "smart"
 [Permalinks]
   blog = "/blog/:year/:month/:day/:filename/"
   # blog = "/blog/:year/:month/:title/"
+  news = "/news/:year/:month/:day/:filename/"
 
 
 # ##################################################
