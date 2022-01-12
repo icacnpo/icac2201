@@ -6,6 +6,7 @@ date:        2022-01-07T10:11:51-05:00
 author:
  - kcso
 tags:
+ - blog
  - kcso
  - icacnpo
  - 2022_01

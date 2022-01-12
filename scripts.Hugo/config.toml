@@ -355,16 +355,16 @@ donate to us
   bottomRight = 'created with [IcacNPO](https://www.icacnpo.com) '
 
 blogAndNews = "Blogs & News 雜誌及新聞"
-footerBlogAndNewsButton = "/hot/blogandnews/"
+footerBlogAndNewsButton = "/hot/01news/index.html"
 
 teachAndLearn = "Teach & Learn 教與學"
-footerTeachAndLearnButton = "/hot/teachandlearn/"
+footerTeachAndLearnButton = "/hot/02learn/index.html"
 
 friendAndLinks = "Friendly Links 友好連結"
-footerFriendAndLinksButton = "/hot/friendandlinks/"
+footerFriendAndLinksButton = "/hot/03links/index.html"
 
 eventsAndPhotos = "Events & Photos 活動與相片"
-footerEventsAndPhotosButton = "/hot/eventsandphotos/"
+footerEventsAndPhotosButton = "/hot/04events/index.html"
 
   # colors
   # ##############################
