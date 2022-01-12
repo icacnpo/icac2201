@@ -128,7 +128,7 @@ anchor = "smart"
   weight = 1
   name   = "主頁"
   url    = "/index.html"
-#  pre    = "fas fa-home"
+  pre    = "fas fa-home"
 
 #[[menu.main]]
 #  weight = 2

@@ -1,6 +1,6 @@
 ---
 title : " 華粵學院 CEO 蘇老師 "
-title2:              "01_ms_so_self_intro2022_docx.pdf"
+title2:              "02_ms_so_self_intro_final_2022_docx.pdf"
 info2 : " Our willpower has never been snatched by the act of genocide."
 date:        2022-01-11T19:01:51-05:00
 author:
@@ -16,7 +16,6 @@ categories:
 draft: false
 #icon:        "fas fa-lock-open"
 #resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
----
 ---
 
 
@@ -58,16 +57,15 @@ With students from HK, UK, USA, Canada, Australia, Africa,Japan,Korea, Italy,Fra
 Welcome to visit me and read my profile and teaching:
 
 
+https://www.youtube.com/channel/UCnh8YKzMOqg1A8JkfBYvHqQ
+
+
 https://www.facebook.com/intl.multiq
 
+https://www.facebook.com/story.php?story_fbid=544955259949878&id=100033062260715
 
-https://m.facebook.com/story.php?story_fbid=544955259949878&id=100033062260715
-
-
-https://m.facebook.com/story.php?story_fbid=544955259949878&id=100033062260715
-
-{{< mypdf1 pdf="01_ms_so_self_intro2022_docx.pdf"
+{{< mypdf1 pdf="02_ms_so_self_intro_final_2022_docx.pdf"
 text="PDF format, PDF 文件"
-link="01_ms_so_self_intro2022_docx.pdf"
+link="02_ms_so_self_intro_final_2022_docx.pdf"
 >}}
 
