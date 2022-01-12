@@ -124,11 +124,28 @@ anchor = "smart"
 [menu]
 
 # provide translations in i18n/*.yaml
-[[menu.main]]
-  weight = 1
+
+     [[menu.topbar]]
+       weight = 105
+       name   = "preSite"
+       #url    = "/11_presite/"
+       url    = "https://icac2200.icacnpo.com/"
+       pre    = "fas fa-step-backward"
+     
+     [[menu.topbar]]
+       weight = 102
+       name   = "nextSite"
+       #url    = "/11_presite/
+       url    = "https://icac2202.icacnpo.com/"
+       pre    = "fas fa-step-forward"
+
+#[[menu.main]]
+[[menu.topbar]]
+  weight = 101
   name   = "主頁"
   url    = "/index.html"
   pre    = "fas fa-home"
+
 
 #[[menu.main]]
 #  weight = 2
