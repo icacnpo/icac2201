@@ -13,8 +13,3 @@ categories:
 
 {{< my2genlistbytag "learn_disclaimer" >}}
 
-{{< mydiv4o
- text="老師資料閣 Teacher Information Corner"
- link="/learn/2022/01/16/01_intro_and_discalimer/"
- >}}
-

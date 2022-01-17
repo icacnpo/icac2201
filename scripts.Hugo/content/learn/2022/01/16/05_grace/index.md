@@ -3,7 +3,7 @@ title : " 教師 Grace "
 title3 : " 教師  Grace "
 title2:              "grace.pdf"
 info2 : " Our willpower has never been snatched by the act of genocide."
-date:        2022-01-16T16:03:51-05:00
+date:        2022-01-16T16:05:51-05:00
 author:
  - kcso
 tags:

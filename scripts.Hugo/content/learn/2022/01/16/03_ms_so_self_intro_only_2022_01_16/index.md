@@ -2,7 +2,7 @@
 title : " 蘇老師 Ms Kwai Chu So"
 title2:              "ms_so_self_intro_only_2022_01_16.pdf"
 info2 : " Our willpower has never been snatched by the act of genocide."
-date:        2022-01-16T16:01:51-05:00
+date:        2022-01-16T16:03:51-05:00
 author:
  - kcso
 tags:
