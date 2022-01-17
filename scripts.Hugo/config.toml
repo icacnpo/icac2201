@@ -371,8 +371,9 @@ donate to us
   bottomLeft  = "Copyright (c) 2019, The_IcacNPO_copyright_01"
   bottomRight = 'created with [IcacNPO](https://www.icacnpo.com) '
 
-blogs = " Blogs & Updates "
+blogs = " Promotion 宣傳 "
 footerBlogsButton = "/hot/00blog/index.html"
+#footerBlogsText1 = "Promotion 宣傳"
 
 blogAndNews = "Blogs & News 雜誌及新聞"
 footerBlogAndNewsButton = "/hot/01news/index.html"
