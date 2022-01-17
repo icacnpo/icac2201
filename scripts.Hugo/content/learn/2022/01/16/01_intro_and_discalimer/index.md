@@ -1,4 +1,5 @@
 ---
+weight: 100
 title : " 簡介及免責聲明 Introduction and Disclaimer"
 title2:              "intro_and_discalimer.pdf"
 info2 : " Our willpower has never been snatched by the act of genocide."
