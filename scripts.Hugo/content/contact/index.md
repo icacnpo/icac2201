@@ -5,7 +5,7 @@ type:               "about"
 icon:               "far fa-address-card"
 ---
 
-# We are here to help you
+# Welcome You To Visit :
 
 {{< mydiv4o text="Visit ICAC Public Group on Facebook"
 link="https://www.facebook.com/groups/498571051409840/"
@@ -17,7 +17,7 @@ link="https://www.facebook.com/ICAC2022/"
 
 Any entries and/or questions, please email icac.npo@gmail.com
 
-# 我們在期待您的關注 :
+# 我們期待您的關注 :
 
 {{< mydiv4o text="華粵學院面書公開羣組"
 link="https://www.facebook.com/groups/498571051409840"
