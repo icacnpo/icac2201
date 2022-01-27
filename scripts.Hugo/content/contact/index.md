@@ -15,6 +15,10 @@ link="https://www.facebook.com/groups/498571051409840/"
 link="https://www.facebook.com/ICAC2022/"
 >}}
 
+{{< mydiv4o text="Visit ICAC Youtube Channel"
+link="https://www.youtube.com/channel/UCYWbPc-FeSo7_JeP3urMVUw"
+>}}
+
 Any entries and/or questions, please email icac.npo@gmail.com
 
 # 我們期待您的關注 :
@@ -25,6 +29,10 @@ link="https://www.facebook.com/groups/498571051409840"
 
 {{< mydiv4o text="華粵學院面書專頁 "
 link="https://www.facebook.com/ICAC2022/"
+>}}
+
+{{< mydiv4o text="華粵學院 Youtube 專頁 "
+link="https://www.youtube.com/channel/UCYWbPc-FeSo7_JeP3urMVUw"
 >}}
 
 如有任何提交和/或提問，請電郵： icac.npo@gmail.com
