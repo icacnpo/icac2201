@@ -294,12 +294,16 @@ anchor = "smart"
   name     = "Facebook"
   url      = "https://www.facebook.com/groups/498571051409840/"
   pre      = "fab fa-facebook"
+# pre      = "fab fa-youtube"
+# pre      = "fab fa-gitlab"
 
-#[[menu.topbar]]
-#  weight   = 4
-#  name     = "Twitter"
-#  url      = "https://www.facebook.com/groups/498571051409840/"
-#  pre      = "fab fa-twitter"
+[[menu.topbar]]
+  weight   = 4
+  name     = "Twitter"
+  url      = "https://www.youtube.com/channel/UCYWbPc-FeSo7_JeP3urMVUw"
+# pre      = "fab fa-twitter"
+# pre      = "/content/favicon.ico"
+  pre      = "fab fa-youtube"
 
 [[menu.topbar]]
   weight   = 5
