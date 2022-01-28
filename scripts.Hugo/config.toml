@@ -287,7 +287,8 @@ anchor = "smart"
   weight   = 2
   name     = "Donate"
   url      = "/donate01"
-  pre      = "fab fa-gitlab"
+# pre      = "fab fa-gitlab"
+  pre      = "fas fa-donate"
 
 [[menu.topbar]]
   weight   = 3
@@ -371,7 +372,10 @@ donate to us
 '''
    footerDonateButton = "/donate01/index.md"
 
-   footerLogo = "/icac_logo.jpg"
+   footerLogoX= "/icac_logo.jpg"
+   footerLogoY= "http://www.icacnpo.com/icac_barcode.png"
+   footerLogo = "http://www.icacnpo.com/icac_logo.jpg"
+   barLogo = "http://www.icacnpo.com/icac_barcode.png"
 
   # used in layouts/partials/footer.bottom.html
   bottomLeft  = "Copyright (c) 2019, The_IcacNPO_copyright_01"
