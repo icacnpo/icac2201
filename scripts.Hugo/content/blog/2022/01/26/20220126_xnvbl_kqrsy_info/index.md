@@ -44,6 +44,8 @@ draft: false
 
 <br>
 
+{{< my2linktextonly link="https://youtu.be/xwcEc-PAvOQ"
+>}}
 {{< my2linktextonly link="https://www.youtube.com/watch?v=xnVBL-kqrSY"
 >}}
 
