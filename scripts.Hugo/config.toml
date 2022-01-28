@@ -835,7 +835,7 @@ footerEventsAndPhotosButton = "/hot/04events/index.html"
   socialEnable              = true
   numOfItemsIfSmallDisplay  = 1
   numOfItemsIfMediumDisplay = 3
-  numOfItemsIfSmallDisplayCollapsed = 6
+  numOfItemsIfSmallDisplayCollapsed = 12
 
   # used in layouts/partials/header.nav.html
   #         layouts/partials/header.nav.google.translate.html
