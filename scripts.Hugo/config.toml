@@ -304,6 +304,8 @@ anchor = "smart"
 # pre      = "fab fa-twitter"
 # pre      = "/content/favicon.ico"
   pre      = "fab fa-youtube"
+# https://www.client9.com/using-font-awesome-icons-in-hugo/
+# Using Font Awesome Icons in Hugo
 
 [[menu.topbar]]
   weight   = 5
