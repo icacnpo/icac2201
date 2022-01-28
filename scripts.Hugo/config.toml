@@ -375,7 +375,7 @@ donate to us
    footerLogoX= "/icac_logo.jpg"
    footerLogoY= "http://www.icacnpo.com/icac_barcode.png"
    footerLogo = "http://www.icacnpo.com/icac_logo.jpg"
-   barLogo = "http://www.icacnpo.com/icac_barcode.png"
+   footerLog2 = "http://www.icacnpo.com/icac_barcode.png"
 
   # used in layouts/partials/footer.bottom.html
   bottomLeft  = "Copyright (c) 2019, The_IcacNPO_copyright_01"
