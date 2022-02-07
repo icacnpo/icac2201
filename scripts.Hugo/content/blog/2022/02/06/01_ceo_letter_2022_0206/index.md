@@ -39,8 +39,8 @@ Without any fundraising and financial support, we have taken our very first step
 
 But what can we do to keep the fire burning? Looking ahead, we will also carry out fundraising events, and we hope to establish a brick and mortar school for administration, teaching and training activities, as well as providing a venue for people to gather who are interested in learning and promoting Cantonese and traditional Chinese. In a time when such great wishes are not yet fulfilled, we will not stop. We will hold a  New Year greeting event via zoom to gather a group of interested individuals to showcase auspicious Chinese New Year blessings and promote Cantonese cuisine. Hence, core members of ICAC, teachers and students can exchange and discuss with each other, and further connect more people with enthusiasm in the  same mission: " Restore our traditional Chinese and Cantonese. Back to the classic languages!"
 
-{{< mypdf1 pdf="ceo_letter_both_final.pdf"
+{{< mypdf1 pdf="ceo_letter_both_version_final2.pdf"
 text="PDF format, PDF 文件"
-link="ceo_letter_both_final.pdf"
+link="ceo_letter_both_version_final2.pdf"
 >}}
 
