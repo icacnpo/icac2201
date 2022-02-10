@@ -8,13 +8,6 @@ type:               "about"
 
 
 
-# Grace Leung
-
-身為兩個小朋友嘅媽媽。覺得教下一代學識廣東話同正體字係好重要。因為小朋友係我哋嘅將來。還有如果喺海外出世嘅小朋友可以同長者用廣東話對話，也可以令到佢哋好開心。大家一齊努力為廣東話加油！
-
-As a mother of two little children, I find it  vitally important to educate the next generation to understand Cantonese and Traditional Chinese characters because they are our future to carry the baton of these precious language heritages. In addition, if children born overseas can converse with their grannies in Cantonese, it will give them much joy. Let’s bond together to persevere for Cantonese!
-
-#
 
 # Amarolf
 
