@@ -1,4 +1,5 @@
 ---
+weight: 2022011602
 title : " 老師資料閣 Teacher Information Corner"
 title2:              "intro_and_discalimer.pdf"
 info2 : " Our willpower has never been snatched by the act of genocide."
