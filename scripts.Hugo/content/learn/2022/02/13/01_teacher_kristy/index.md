@@ -2,7 +2,7 @@
 weight: 2022021301
 title : " 教師 Kristy "
 #title3 : " 教師  Kristy "
-#title2:              "001_teacher_kristy_docx.pdf"
+#title2:              "001_teacher_kristy_docx.02.pdf"
 #info2 : " Our willpower has never been snatched by the act of genocide."
 date:        2022-02-13T16:05:51-05:00
 author:
@@ -59,8 +59,8 @@ My goal focus on preserving Cantonese and Hong Kong Culture core value. 
 
 [美德粵語中文學校](http://meritchineseschool.org/index.html)
 
-{{< mypdf1 pdf="001_teacher_kristy_docx.pdf"
+{{< mypdf1 pdf="001_teacher_kristy_docx.02.pdf"
 text="PDF format, PDF 文件"
-link="001_teacher_kristy_docx.pdf"
+link="001_teacher_kristy_docx.02.pdf"
 >}}
 
