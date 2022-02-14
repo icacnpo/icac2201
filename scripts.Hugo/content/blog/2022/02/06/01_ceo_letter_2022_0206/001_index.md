@@ -23,17 +23,11 @@ categories:
 
 四方有需要，八方齊支持！ 
 
-ICAC運作首月， 來自各界的積極回應已像雪花紛紛飄至， 為嚴冬添上美意。
-在此謹代表一眾在工餘及假期仍胼手胝足的華粵學院義工，向各位致以衷心感謝！ 
+ICAC運作首月， 來自各界的積極回應已像雪花紛紛飄至， 為嚴冬添上美意。在此謹代表一眾在工餘及假期仍胼手胝足的華粵學院義工，向各位致以衷心感謝！ 
 
-在未有籌募經費及財力支援下，我哋已憑信心踏出第一步，成立華粵學院。
-即時開放網站及推出院徽設計比賽，反應熱烈，參賽者遠至北非，資深老師向我們登記，
-求學者甚至學校主動查詢，本人獲邀接受一連三個媒體的訪問，一月之期已吸納了幾千瀏覽量，義工申請紛沓而至.....莫非我們已燃點了廣大酷愛正體中文及粵語人士心中的那團火？ 
+在未有籌募經費及財力支援下，我哋已憑信心踏出第一步，成立華粵學院。即時開放網站及推出院徽設計比賽，反應熱烈，參賽者遠至北非，資深老師向我們登記，求學者甚至學校主動查詢，本人獲邀接受一連三個媒體的訪問，一月之期已吸納了幾千瀏覽量，義工申請紛沓而至.....莫非我們已燃點了廣大酷愛正體中文及粵語人士心中的那團火？ 
 
-如何讓這團火繼續燒？在推動一連申活動時，我們同時開展向熱心者募捐，
-冀建實體院校，以供行政與教學並訓練活動之用，招來各方愛好華粵友好，共聚推廣。
-此際宏願未償之時，我哋唔會停，先攪網上新春拜年，在凝聚一群無償付出的手足之餘，
-推動正宗中文賀辭及廣東美食，讓教與學雙方交流學習，進一步連繫更多有心人，光復華粵，還我正統。
+如何讓這團火繼續燒？在推動一連申活動時，我們同時開展向熱心者募捐，冀建實體院校，以供行政與教學並訓練活動之用，招來各方愛好華粵友好，共聚推廣。此際宏願未嘗之時，我哋唔會停，先攪網上新春拜年，在凝聚一群無償付出的手足之餘，推動正宗中文賀辭及廣東美食，讓教與學雙方交流學習，進一步連繫更多有心人，光復華粵，還我正統。
 
 # Letter from CEO      Kwai Chu So      2022.02
 
@@ -45,8 +39,8 @@ Without any fundraising and financial support, we have taken our very first step
 
 But what can we do to keep the fire burning? Looking ahead, we will also carry out fundraising events, and we hope to establish a brick and mortar school for administration, teaching and training activities, as well as providing a venue for people to gather who are interested in learning and promoting Cantonese and traditional Chinese. In a time when such great wishes are not yet fulfilled, we will not stop. We will hold a  New Year greeting event via zoom to gather a group of interested individuals to showcase auspicious Chinese New Year blessings and promote Cantonese cuisine. Hence, core members of ICAC, teachers and students can exchange and discuss with each other, and further connect more people with enthusiasm in the  same mission: " Restore our traditional Chinese and Cantonese. Back to the classic languages!"
 
-{{< mypdf1 pdf="001_ceo_letter_both_version_final2.pdf"
+{{< mypdf1 pdf="ceo_letter_both_version_final2.pdf"
 text="PDF format, PDF 文件"
-link="001_ceo_letter_both_version_final2.pdf"
+link="ceo_letter_both_version_final2.pdf"
 >}}
 
