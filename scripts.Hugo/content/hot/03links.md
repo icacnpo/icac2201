@@ -14,12 +14,14 @@ categories:
 # 排名不分先後
 # names in random order
 
+[Save Cantonese at CCSF](https://www.savecantonese.org/blog/save-cantonese-ccsf)
 
-[Save Cantinese at stanford](https://Savecantonese.org)
+[Save Cantonese at stanford](https://Savecantonese.org)
 
 [LCMC Concern Group](https://www.facebook.com/278718243928135/)
-
 [愛爾蘭高考華文科關注組](https://www.facebook.com/278718243928135/)
+
+[Cantonese in Ireland](https://www.facebook.com/profile.php?id=100076345989824)
 
 [Cantonese in Ireland](https://www.facebook.com/Cantonese-in-Ireland-101036552455398/)
 
@@ -36,10 +38,9 @@ categories:
 
 [港語學](https://gongjyuhok.hk)
 
-[Coalition for a better Chinese American Community in Chicago](https://www.cbcacchicago.org)
-
 [冚唪唥](https://hambaanglaang.hk/)
 
-[Cantonese in Ireland](https://www.facebook.com/profile.php?id=100076345989824)
+[Coalition for a better Chinese American Community in Chicago](https://www.cbcacchicago.org)
+
 
 {{< my2genlistbytag "links" >}}
