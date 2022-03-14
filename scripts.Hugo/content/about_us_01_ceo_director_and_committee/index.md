@@ -13,7 +13,7 @@ link="/about_us_01_01_ceo/"
 {{< mydiv4o text="Director"
 link="/about_us_01_02_director/"
 >}}
-{{< mydiv4o text="Committee"
-link="/about_us_01_03_committee/"
+{{< mydiv4o text="Volunteer Groups"
+link="/about_us_01_04_volunteergroups/"
 >}}
 
