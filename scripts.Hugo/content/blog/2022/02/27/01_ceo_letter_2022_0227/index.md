@@ -1,5 +1,6 @@
 ---
-title:              " Letter from CEO      Kwai Chu So      2022.0227"
+weight: 202203189992
+title:              " Letter from CEO      Kwai Chu So      2022.02"
 title2:              " about_us_01_01_ceo "
 date:        2022-02-27T10:01:51-05:00
 type:               "about"
@@ -20,7 +21,7 @@ draft: false
 
 
 
-# 家書          蘇貴珠         2022.0227
+# 家書          蘇貴珠         2022.02
 
 四方有需要，八方齊支持！ 
 
@@ -31,7 +32,7 @@ draft: false
 如何讓這團火繼續燒？在推動一連申活動時，我們同時開展向熱心者募捐，冀建實體院校，以供行政與教學並訓練活動之用，招來各方愛好華粵友好，共聚推廣。此際宏願未償之時，我哋唔會停，先攪網上新春拜年，在凝聚一群無償付出的手足之餘，推動正宗中文賀辭及廣東美食，讓教與學雙方交流學習，進一步連繫更多有心人，“ 光復華粵  ！
 還我正體！” 
 
-# Letter from CEO      Kwai Chu So      2022.0227
+# Letter from CEO      Kwai Chu So      2022.02
 
 When one is in need anywhere, support will come from everywhere! 
 
