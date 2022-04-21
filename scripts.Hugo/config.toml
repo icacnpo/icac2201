@@ -368,7 +368,7 @@ Contact Us
    footerContactButton = "contact/index.md"
 
    donate = '''
-donate to us
+donate to ICAC 捐款
 '''
    footerDonateButton = "/donate01/index.md"
 
