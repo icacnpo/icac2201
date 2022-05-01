@@ -74,13 +74,22 @@
       <guid> test13 </guid>
     </item>
     <item>
-      <title> test14 </title>
-      <description>test14.</description>
+      <title> test21 </title>
+      <description>test21.</description>
       <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
       <enclosure url="http://icac2201.icacnpo.com/eee.rss.xml"
                  type="audio/mpeg" length="1344"/>
       <itunes:duration>24:53</itunes:duration>
-      <guid> test14 </guid>
+      <guid> test21 </guid>
+    </item>
+    <item>
+      <title> test22 </title>
+      <description>test22.</description>
+      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
+      <enclosure url="http://icac2201.icacnpo.com/eee.rss.xml"
+                 type="text/xml" length="1344"/>
+      <itunes:duration>24:53</itunes:duration>
+      <guid> test22 </guid>
     </item>
   </channel>
 </rss>
