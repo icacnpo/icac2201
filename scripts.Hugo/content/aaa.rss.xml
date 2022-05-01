@@ -12,46 +12,11 @@
     <language>en-us</language>
     <link>http://icac2201.icacnpo.com/</link>
     <item>
-      <title> test01 </title>
-      <description>test01.</description>
-      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/blog/2022/01/26/20220126_xnvbl_kqrsy_info/20220126_xnvbl_kqrsy_info_mp4_wav_32kbps.mp3"
-                 type="audio/mpeg" length="5972967"/>
-      <guid> test01 </guid>
-    </item>
-    <item>
-      <title> test02 </title>
-      <description>test02.</description>
-      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/blog/2022/01/26/20220126_xnvbl_kqrsy_info/20220126_xnvbl_kqrsy_info_mp4_wav_32kbps.mp3"
-                 type="audio/mpeg" length="5972967"/>
-      <itunes:duration>24:53</itunes:duration>
-      <guid> test02 </guid>
-    </item>
-    <item>
-      <title> test03 </title>
-      <description>test03.</description>
-      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/blog/2022/01/26/20220126_xnvbl_kqrsy_info/20220126_xnvbl_kqrsy_info_mp4_wav_32kbps.mp3"
-                 type="audio/mp3" length="5972967"/>
-      <itunes:duration>24:53</itunes:duration>
-      <guid> test03 </guid>
-    </item>
-    <item>
-      <title> test04 </title>
-      <description>test04.</description>
-      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/blog/2022/01/26/20220126_xnvbl_kqrsy_info/20220126_xnvbl_kqrsy_info_mp4_wav_32kbps.mp3"
-                 type="audio/mpeg" length="5972967"/>
-      <itunes:duration>24:53</itunes:duration>
-      <guid> test04 </guid>
-    </item>
-    <item>
       <title> test11 </title>
       <description>test11.</description>
       <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/bbb.m4a"
-                 type="audio/mpeg" length="13193786"/>
+      <enclosure url="http://icac2201.icacnpo.com/eee.rss.xml"
+                 type="audio/mpeg" length="1344"/>
       <itunes:duration>24:53</itunes:duration>
       <guid> test11 </guid>
     </item>
@@ -59,37 +24,10 @@
       <title> test12 </title>
       <description>test12.</description>
       <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/bbb.mp4"
-                 type="audio/mpeg" length="13193786"/>
-      <itunes:duration>24:53</itunes:duration>
-      <guid> test12 </guid>
-    </item>
-    <item>
-      <title> test13 </title>
-      <description>test13.</description>
-      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/bbb.mp3"
-                 type="audio/mpeg" length="11945599"/>
-      <itunes:duration>24:53</itunes:duration>
-      <guid> test13 </guid>
-    </item>
-    <item>
-      <title> test21 </title>
-      <description>test21.</description>
-      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/eee.rss.xml"
-                 type="audio/mpeg" length="1344"/>
-      <itunes:duration>24:53</itunes:duration>
-      <guid> test21 </guid>
-    </item>
-    <item>
-      <title> test22 </title>
-      <description>test22.</description>
-      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
       <enclosure url="http://icac2201.icacnpo.com/eee.rss.xml"
                  type="text/xml" length="1344"/>
       <itunes:duration>24:53</itunes:duration>
-      <guid> test22 </guid>
+      <guid> test12 </guid>
     </item>
   </channel>
 </rss>
