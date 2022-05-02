@@ -15,7 +15,7 @@
       <title> 5000 test31 </title>
       <description>test31.</description>
       <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/m4a.5000.amr"
+      <enclosure url="https://raw.githubusercontent.com/icacnpo/icac2201/main/docs/m4a.5000.amr"
                  type="audio/mpeg" length="1275518"/>
       <itunes:duration>30:22</itunes:duration>
       <guid> test31 </guid>
@@ -24,7 +24,7 @@
       <title> 6000 test32 </title>
       <description>test32.</description>
       <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/m4a.6000.amr"
+      <enclosure url="https://raw.githubusercontent.com/icacnpo/icac2201/main/docs/m4a.6000.amr"
                  type="audio/mpeg" length="1457734"/>
       <itunes:duration>30:22</itunes:duration>
       <guid> test32 </guid>
@@ -33,7 +33,7 @@
       <title> 8000 test33 </title>
       <description>test33.</description>
       <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="http://icac2201.icacnpo.com/m4a.8000.amr"
+      <enclosure url="https://raw.githubusercontent.com/icacnpo/icac2201/main/docs/m4a.8000.amr"
                  type="audio/mpeg" length="1913274"/>
       <itunes:duration>30:22</itunes:duration>
       <guid> test33 </guid>
