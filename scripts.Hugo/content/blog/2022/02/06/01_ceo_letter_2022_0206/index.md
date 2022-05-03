@@ -1,4 +1,5 @@
 ---
+weight: 2022
 title:              " Letter from CEO      Kwai Chu So      2022.0206"
 title2:              " about_us_01_01_ceo "
 date:        2022-02-06T10:01:51-05:00
