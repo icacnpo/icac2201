@@ -376,6 +376,7 @@ donate to ICAC 捐款
    footerLogoY= "http://www.icacnpo.com/icac_barcode.png"
    footerLogo = "http://www.icacnpo.com/icac_logo.jpg"
    footerLog2 = "http://www.icacnpo.com/icac_barcode.png"
+   footerLog3 = "http://www.icacnpo.com/donate01/paypal_donate_button_transparent.png"
 
   # used in layouts/partials/footer.bottom.html
   bottomLeft  = "Copyright (c) 2019, The_IcacNPO_copyright_01"
