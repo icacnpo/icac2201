@@ -14,7 +14,9 @@ Institute of Chinese and Cantonese NPO is a 501(c)3 organization and your donati
 Please click the following link :
 
 [https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2](https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2)
-![](00003/donation_details_3.bar.png)
+
+[![x](00003/donation_details_3.bar.png)](https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2)
+[![x](paypal_donate_button_transparent.png)](https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2)
 
 ### 2. By sending check: 
 
@@ -30,7 +32,9 @@ Payable to:
 ### 1. Paypal付款: 按入以下連結
 
 [https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2](https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2)
-![](00003/donation_details_3.bar.png)
+
+[![x](00003/donation_details_3.bar.png)](https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2)
+[![x](paypal_donate_button_transparent.png)](https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2)
 
 ### 2. 支票付款：
 
