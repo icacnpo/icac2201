@@ -376,7 +376,9 @@ donate to ICAC 捐款
 
    footerLogoX= "/icac_logo.jpg"
    footerLogoY= "http://www.icacnpo.com/icac_barcode.png"
-   footerLogo = "http://www.icacnpo.com/icac_logo.jpg"
+   footerLogoZ= "http://www.icacnpo.com/icac_logo.jpg"
+   footerLogoA= "http://www.icacnpo.com/icac_official_logo.png"
+   footerLogo = "http://www.icacnpo.com/icac_official_logo_320.png"
    footerLog2 = "http://www.icacnpo.com/icac_barcode.png"
    footerLog3 = "http://www.icacnpo.com/paypal_donate_button_transparent.png"
    bottonLog3 = "/donate01/index.md"
