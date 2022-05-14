@@ -1,5 +1,5 @@
 ---
-title:              " CEO , Director & Committee "
+title:              " Directors / CEO / Committee Members / Volunteers 董事/行政總裁/委員/義工 "
 type:               "about"
 #resImgTeaser:  teaserpics/pixabay.com/contact-2860030_640.jpg
 #icon:               "far fa-address-card"
