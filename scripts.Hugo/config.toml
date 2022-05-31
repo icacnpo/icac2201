@@ -329,6 +329,8 @@ anchor = "smart"
 # theme-defined params
 [params]
 
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+
   mainSections = ["blog", "docs", "about", "contact" ]
   # meta data
   # ##############################
