@@ -19,6 +19,10 @@ Choose email:icac.npo@gmail.com. Or scan QR code
 {{< myimage width="200px"                        img="https://www.icacnpo.com/icacnpo.zelle.2.png"
 link="https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiIiwidG9rZW4iOiIxNzM0NTk2MTc0MiJ9" >}}
 
+{{< myimage width="200px" img="https://www.icacnpo.com/logo_zelle.png"
+img2="https://www.icacnpo.com/paypal_donate_button_transparent.png"
+link="https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiIiwidG9rZW4iOiIxNzM0NTk2MTc0MiJ9" >}}
+
 2. By Paypal:
 
 Please click the following link Or scan QR code
@@ -26,6 +30,9 @@ Please click the following link Or scan QR code
 [https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2](https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2)
 
 {{< myimage width="200px" img="https://www.icacnpo.com/icacnpo.paypal.2.png"
+link="https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2" >}}
+{{< myimage width="200px" img="https://www.icacnpo.com/logo_paypal.png"
+img2="https://www.icacnpo.com/paypal_donate_button_transparent.png"
 link="https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2" >}}
 
 
@@ -47,11 +54,18 @@ Payable to: Institute Of Chinese And Cantonese NPO
 {{< myimage width="200px"                        img="https://www.icacnpo.com/icacnpo.zelle.2.png"
 link="https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiIiwidG9rZW4iOiIxNzM0NTk2MTc0MiJ9" >}}
 
+{{< myimage width="200px" img="https://www.icacnpo.com/logo_zelle.png"
+img2="https://www.icacnpo.com/paypal_donate_button_transparent.png"
+link="https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiIiwidG9rZW4iOiIxNzM0NTk2MTc0MiJ9" >}}
+
 2. Paypal付款: 按入以下連結或掃以下二維碼
 
 [https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2](https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2)
 
 {{< myimage width="200px" img="https://www.icacnpo.com/icacnpo.paypal.2.png"  
+link="https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2" >}}
+{{< myimage width="200px" img="https://www.icacnpo.com/logo_paypal.png"
+img2="https://www.icacnpo.com/paypal_donate_button_transparent.png"
 link="https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2" >}}
 
 
