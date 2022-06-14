@@ -53,7 +53,7 @@ link="https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiIiwidG9rZW4iOiIxNzM0
 
 [https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2](https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2)
 
-{{< myimage width="200px"                        img="https://www.icacnpo.com/icacnpo.paypal.2.png" 
+{{< myimage width="200px" img="https://www.icacnpo.com/icacnpo.paypal.2.png" 
 link="https://www.paypal.com/donate/?hosted_button_id=WVY87RKX8EWH2" >}}
 
 
