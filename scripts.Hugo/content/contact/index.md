@@ -36,3 +36,9 @@ link="https://yt.icacnpo.com/"
 >}}
 
 如有任何提交和/或提問，請電郵： icac.npo@gmail.com
+
+{{< mypdf1 pdf="the_table_of_lists_20221228.pdf"
+text="PDF format, PDF 文件"
+link="the_table_of_lists_20221228.pdf"
+>}}
+
