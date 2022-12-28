@@ -7,13 +7,13 @@ type:               "about"
 
 
 
-{{< mydiv4o text="CEO"
+{{< mydiv4o text="CEO/Founder"
 link="/about_us_01_01_ceo/"
 >}}
-{{< mydiv4o text="Director_James.Y.Deng"
+{{< mydiv4o text="Founding_Director_James.Y.Deng"
 link="/about_us_01_02_director_james_y_deng/"
 >}}
-{{< mydiv4o text="Director_CW"
+{{< mydiv4o text="Current_Director/President_CW"
 link="/about_us_01_02_director_cw/"
 >}}
 {{< mydiv4o text="Volunteer Groups"
